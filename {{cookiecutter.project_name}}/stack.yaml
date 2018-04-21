@@ -1,0 +1,5 @@
+resolver: lts-10.10
+
+extra-deps: []
+
+allow-newer: true
